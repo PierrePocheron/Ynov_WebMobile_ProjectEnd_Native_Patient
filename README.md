@@ -12,7 +12,8 @@ yarn start
 - In autonomy
 
 ## 🧱 `Features`
-- ...
+- [Connction with firebase](https://rnfirebase.io/)
+- [Rooter](https://v5.reactrouter.com/native/guides/quick-start)
 
 Todo :
 - [Connction with firebase](https://rnfirebase.io/)
